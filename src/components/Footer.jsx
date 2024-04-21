@@ -27,7 +27,9 @@ function Footer() {
 
             <div className="flex text-white w-full justify-between py-3">
               <FaFacebook />
-              <FaMailBulk />
+              <a href="mailto:sorada1111@gmail.com">
+                <FaMailBulk />
+              </a>
               <FaInstagram />
               <a
                 href="https://www.linkedin.com/in/soradaprathan"
