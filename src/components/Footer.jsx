@@ -35,7 +35,7 @@ function Footer() {
 
             <div className="h-1 border-2 border-gray-50 border-dotted"></div>
 
-            <p className="text-gray-50 my-2">Sorada Prathan</p>
+            <p className="text-gray-50 my-2">&copy; 2024 Sorada Prathan</p>
           </div>
         </div>
       </div>
