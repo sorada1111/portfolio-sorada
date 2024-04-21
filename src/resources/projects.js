@@ -4,7 +4,7 @@ const projectsData = [
     image: "./p1.png",
     description:
       "A modern web app with AI to help nurse practitioners to monitor patients during the first weeks of their release from the hospital and also help the patients to monitor their daily activities that implemented using React, Node, Redux, MongoDB and TensorFlow.",
-    link: "https://health-risk-projects.netlify.app/",
+    link: "https://health-risk-ai.netlify.app/",
   },
   {
     title: "AI: Image Detection",
