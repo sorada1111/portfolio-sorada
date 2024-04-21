@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+html {
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    width: 12px !important;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #604c0f;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
