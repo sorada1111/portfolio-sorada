@@ -1,5 +1,12 @@
 const projectsData = [
   {
+    title: "E-Commerce Application: SpringBoot Angular  ",
+    image: "./p7.png",
+    description:
+      "An ecommerce application developed using react , node , redux and mongodb",
+    link: "https://ecommerce-spring-angular.netlify.app",
+  },
+  {
     title: "CareMonitorAI: Post-Discharge Patient Support",
     image: "./p1.png",
     description:
@@ -33,13 +40,6 @@ const projectsData = [
     description:
       "An AWS S3 Service application developed using c# , WPF , and S3 on AWS cloud.",
     link: "https://github.com/sorada1111/COMP306_Lab1_AWSS3service.git",
-  },
-  {
-    title: "E-Commerce Application",
-    image: "./p7.png",
-    description:
-      "An ecommerce application developed using react , node , redux and mongodb",
-    link: "/",
   },
 ];
 
